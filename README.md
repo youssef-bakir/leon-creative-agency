@@ -26,6 +26,20 @@ A clean and minimal **Creative Agency website template** built with
 3. Customize as needed  
 
 ---
+## 👋 About Me
+
+I'm **Youssef Bakir**, a frontend developer passionate about building clean, responsive, and user-friendly web interfaces.  
+I enjoy working with modern web technologies and continuously improving my skills through practice and real projects.
+
+---
+
+## 📬 Contact
+
+- 📧 Email: youssebakir19@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/youssef-bakir  
+- 💻 GitHub: https://github.com/youssef-bakir
+
+---
 
 ## 📄 License
 Free to use for learning and personal projects.
